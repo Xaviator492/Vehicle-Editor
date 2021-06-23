@@ -1,0 +1,55 @@
+0,0,0,0,black,black
+245,245,245,1,white,white
+42,119,161,2,police car blue,blue
+132,4,16,3,cherry red,red
+38,55,57,4,midnight blue,dark blue
+134,68,110,5,temple curtain purple,purple
+215,142,16,6,taxi yellow,yellow
+76,117,183,7,striking blue,bright blue
+189,190,198,8,light blue grey,light blue grey
+94,112,114,9,hoods,light
+70,89,122,10,saxony blue poly,blue
+101,106,121,11,concord blue poly,grey
+93,126,141,12,jasper green poly,blue
+88,89,90,13,pewter gray poly,grey
+214,218,214,14,frost white,light
+156,161,163,15,silver stone poly,grey
+51,95,63,16,rio red,green
+115,14,26,17,torino red pearl,red
+123,10,42,18,formula red,red
+159,157,148,19,honey beige poly,light
+59,78,120,20,mariner blue,blue
+115,46,62,21,blaze red,red
+105,30,59,22,classic red,red
+150,145,140,23,winning silver poly,grey
+81,84,89,24,steel gray poly,grey
+63,62,69,25,shadow silver poly,dark
+165,169,167,26,silver stone poly,grey
+99,92,90,27,warm grey mica,grey
+61,74,104,28,harbor blue poly,blue
+151,149,146,29,porcelain silver poly,grey
+66,31,33,30,mellow burgundy,dark
+95,39,43,31,graceful red mica,red
+132,148,171,32,currant blue poly,blue
+118,123,124,33,gray poly,grey
+100,100,100,34,arctic white,light
+90,87,82,35,anthracite gray poly,grey
+37,37,39,36,black poly,dark
+45,58,53,37,dark green poly,green
+147,163,150,38,seafoam poly,light
+109,122,136,39,diamond blue poly,blue
+34,25,24,40,biston brown poly,dark
+111,103,95,41,desert taupe poly,dark
+124,28,42,42,garnet red poly,red
+95,10,21,43,desert red,red
+25,56,38,44,green,green
+93,27,32,45,cabernet red poly,red
+157,152,114,46,light ivory,light
+122,117,96,47,pueblo beige,green
+152,149,134,48,smoke silver poly,light
+173,176,176,49,astra silver poly,grey
+132,137,136,50,ascot gray,grey
+48,79,69,51,agate green,green
+77,98,104,52,petrol blue green poly,green
+22,34,72,53,surf blue,blue
+39,47,75,54,nautical blue poly,blue
