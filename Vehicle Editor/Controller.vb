@@ -61,4 +61,17 @@
 
 
     End Function
+
+    Public Function displayStats(i As Integer)
+        'Returns selected record as a csv string
+        vehicles = allCars(i)
+        Dim stats As String
+        stats = vehicles.ReturnName() & "," & vehicles.ReturnLength() & "," & vehicles.ReturnWidth() & "," & vehicles.ReturnHeight() & "," & vehicles.ReturnCapacity()
+        Return stats
+    End Function
+
+    Public Function ReturnCount()
+        'Returns the size of the allCars array
+        Return allCars.Count() - 1
+    End Function
 End Class

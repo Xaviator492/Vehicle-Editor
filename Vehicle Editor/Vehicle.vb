@@ -15,4 +15,20 @@
         capacity = Convert.ToInt32(c)
 
     End Sub
+
+    Public Function ReturnName()
+        Return name
+    End Function
+    Public Function ReturnLength()
+        Return length
+    End Function
+    Public Function ReturnWidth()
+        Return width
+    End Function
+    Public Function ReturnHeight()
+        Return height
+    End Function
+    Public Function ReturnCapacity()
+        Return capacity
+    End Function
 End Class
